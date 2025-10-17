@@ -4,8 +4,8 @@
 <p align="center">
   <strong>Software Developer | ICT Diploma | Passionate about building solutions</strong><br/>
   <img src="https://img.shields.io/badge/Location-Mbombela,%20South%20Africa-blue?style=flat-square" alt="Location Badge"/>
-  <a href="mailto:thulani.nkosi@outlook.com">
-    <img src="https://img.shields.io/badge/Email-thulani.nkosi@outlook.com-blue?logo=gmail&logoColor=white&style=flat-square" alt="Email Badge"/>
+  <a href="mailto:thulani.nkosii@outlook.com">
+    <img src="https://img.shields.io/badge/Email-thulani.nkosii@outlook.com-blue?logo=gmail&logoColor=white&style=flat-square" alt="Email Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/thulani-nkosi-6733ab344">
     <img src="https://img.shields.io/badge/LinkedIn-Thulani%20Nkosi-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn Badge"/>
@@ -69,7 +69,7 @@ With a Diploma in Information Communication Technology (Application Development 
 
 ## 📫 Contact Me
 
-- 📧 Email: [thulani.nkosi@outlook.com](mailto:thulani.nkosi@outlook.com)
+- 📧 Email: [thulani.nkosii@outlook.com](mailto:thulani.nkosii@outlook.com)
 - 💼 LinkedIn: [Thulani Nkosi](https://www.linkedin.com/in/thulani-nkosi-6733ab344)
 
 ---
