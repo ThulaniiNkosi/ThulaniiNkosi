@@ -2,11 +2,11 @@
 <div align="center">
   
   <!-- Banner/Header Image -->
-  <img src="https://raw.githubusercontent.com/thulaninkosi/thulaninkosi/main/images/banner.png" alt="Thulani Nkosi - Backend Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/thulaninkosi/thulaninkosi/main/images/banner.png" alt="Thulani Nkosi - Junior Developer" width="100%" />
   
   <!-- Profile Header -->
   <h1 align="center">👋 Hello, I'm Thulani Comfort Nkosi</h1>
-  <h3 align="center">Backend Developer | ICT Graduate | PHP Specialist</h3>
+  <h3 align="center">Junior Developer | ICT Graduate | PHP Specialist</h3>
   
   <!-- Badges -->
   <p align="center">
@@ -32,12 +32,12 @@
 
 ## 📚 About Me
 
-I'm a passionate backend developer with a Diploma in Information Communication Technology from the University of Mpumalanga. My expertise lies in building robust, scalable systems using PHP, Python, Java, and JavaScript. I combine technical development skills with administrative insights gained through professional experience.
+I'm a passionate junior developer with a Diploma in Information Communication Technology from the University of Mpumalanga. My expertise lies in building robust, scalable systems using PHP, Python, Java, and JavaScript. I combine technical development skills with administrative insights gained through professional experience.
 
 **🎓 Education:** ICT Diploma, University of Mpumalanga (2019-2022, Graduated 2023)  
 **💼 Current:** Software Developer Intern @ Afrikkatikkun  
 **📍 Location:** Johannesburg, South Africa  
-**📧 Email:** thulani.nkosi@outlook.com
+**📧 Email:** thulani.nkosii@outlook.com
 
 ---
 
@@ -76,13 +76,6 @@ I'm a passionate backend developer with a Diploma in Information Communication T
 >
 > 🔗 **[View Repository](https://github.com/thulaninkosi/employee-compliance-system)** | **📖 [Case Study](https://thulaninkosi.com/projects/compliance-system)**
 
-### **E-Commerce Backend API**
-> **Node.js | Express | MongoDB | JWT**
-> 
-> RESTful API for e-commerce platforms with payment integration, inventory management, and order processing.
->
-> 🔗 **[View Repository](https://github.com/thulaninkosi/ecommerce-api)**
-
 ### **HR Management System**
 > **PHP | CodeIgniter | MySQL | Bootstrap**
 > 
@@ -120,8 +113,6 @@ I'm a passionate backend developer with a Diploma in Information Communication T
   
   [![Employee Compliance System](https://github-readme-stats.vercel.app/api/pin/?username=thulaninkosi&repo=employee-compliance-system&theme=blue-green&bg_color=0D1117&title_color=003366)](https://github.com/thulaninkosi/employee-compliance-system)
   
-  [![E-Commerce API](https://github-readme-stats.vercel.app/api/pin/?username=thulaninkosi&repo=ecommerce-api&theme=blue-green&bg_color=0D1117&title_color=003366)](https://github.com/thulaninkosi/ecommerce-api)
-  
   [![HR Management System](https://github-readme-stats.vercel.app/api/pin/?username=thulaninkosi&repo=hr-management-system&theme=blue-green&bg_color=0D1117&title_color=003366)](https://github.com/thulaninkosi/hr-management-system)
   
   [![Inventory Tracker](https://github-readme-stats.vercel.app/api/pin/?username=thulaninkosi&repo=inventory-tracker&theme=blue-green&bg_color=0D1117&title_color=003366)](https://github.com/thulaninkosi/inventory-tracker)
@@ -149,14 +140,11 @@ I'm a passionate backend developer with a Diploma in Information Communication T
     <a href="https://www.linkedin.com/in/thulaninkosi" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:thulani.nkosi@outlook.com">
+    <a href="mailto:thulani.nkosii@outlook.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://thulaninkosi.com" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-003366?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://twitter.com/thulaninkosi" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
   </p>
   
